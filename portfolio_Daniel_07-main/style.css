@@ -1,13 +1,24 @@
 body{
     background-color: azure;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    border: red solid 3px;
+    height: auto;
+    border: red solid 5px;
 }
 
 img{
     border-radius: 120px;
     width: 100px;
+    padding: 5px 0 0 0;
+}
+perfil{
+    font-size: 28px;
+    color: brown;
+    font-weight: bold;
+
+}
+h1{
+    font-size: 36px;
+    
 }
